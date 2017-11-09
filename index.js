@@ -2,16 +2,17 @@ function happyHolidays() {
 return "Happy holidays!"
 }
 
-function happyHolidaysTo() {
+var
 
-  
+function happyHolidaysTo(name) {
+ return "Happy holidays, " , $name , "!";
 }
 
 function happyHolidayTo() {
-  
+
 }
 
 function holidayCountdown() {
 
-  
+
 }
