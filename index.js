@@ -1,3 +1,17 @@
 function happyHolidays() {
 return "Happy holidays!"
-}// write your code below!
+}
+
+function happyHolidaysTo() {
+
+  
+}
+
+function happyHolidayTo() {
+  
+}
+
+function holidayCountdown() {
+
+  
+}
